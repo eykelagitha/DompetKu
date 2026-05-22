@@ -10,7 +10,7 @@ Aplikasi pencatat keuangan pribadi berbasis React Native (Expo) yang memungkinka
 
 | Tampilan Utama | Tambah Transaksi | Riwayat Transaksi |
 |:-:|:-:|:-:|
-| ![Home](DompetKu/assets/home.jpeg) | ![Form](DompetKu/assets/riwayat-transaksi.jpeg) | ![History](DompetKu/assets/riwayat-transaksi.jpeg) |
+| ![Home](assets/home.jpeg) | ![Form](assets/riwayat-transaksi.jpeg) | ![History](assets/riwayat-transaksi.jpeg) |
 
 ---
 
