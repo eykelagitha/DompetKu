@@ -1,6 +1,6 @@
-# 💳 DompetKu — Expense Tracker App
+# 💳 DompetKu - Expense Tracker App
 
-> UTS Project — Pemrograman Mobile (React Native) | Sistem Informasi
+> Projek UTS Praktek Pemrograman Mobile (React Native) | Sistem Informasi
 
 Aplikasi pencatat keuangan pribadi berbasis React Native (Expo) yang memungkinkan pengguna mencatat **pemasukan** dan **pengeluaran** secara real-time, lengkap dengan perhitungan saldo otomatis.
 
